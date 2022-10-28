@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Kirill.unity
+- path: Assets/Edik.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
